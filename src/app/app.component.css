@@ -1,0 +1,9 @@
+mat-sidenav{
+    width: 200px;
+}
+mat-sedenav-content{
+    background-color: red;
+}
+mat-sedenav-container{
+    height: 100%;
+}
